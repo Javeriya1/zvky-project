@@ -1,0 +1,17 @@
+.create-container{
+    display:flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+.create-box{
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.submit-create{
+    margin-left: 65px;
+}

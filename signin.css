@@ -1,0 +1,19 @@
+.signin-conatiner{
+    display: flex;
+    width: 100vw;
+    height: 100vh;  
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+
+   
+}
+.signin-box{
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.submit-but{
+    margin-left: 120px;
+}
